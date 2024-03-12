@@ -1,0 +1,475 @@
+variable,label,value
+redcap_repeat_instance,new,new
+mcis_team,1,1
+mcis_team,3,3
+mcis_team,"center for human development, inc.",4
+mcis_team,6,6
+mcis_team,7,7
+mcis_team,commuity counseling solutions,8
+mcis_team,9,9
+mcis_team,10,10
+mcis_team,"""""",""""""
+mcis_team,12,12
+mcis_team,29,29
+mcis_team,"new directions nw, inc.",29
+mcis_team,new directions,29
+mcis_team,14,14
+mcis_team,Lake District Behavioral Health,19
+mcis_team,lake district behavioral health,19
+mc_responders_1,1,1
+mc_responders_1,2,2
+mc_responders_1,4,4
+mc_responders_1,ahutchison,6
+mc_responders_1,jwood,6
+mc_responders_1,earvizu,6
+mc_responders_1,cstevenson,6
+mc_responders_1,cwalters,6
+mc_responders_1,kguentert,6
+mc_responders_1,lreddington,6
+mc_responders_1,agrigg,6
+mc_responders_1,tclark,6
+mc_responders_1,btoothaker,6
+mc_responders_1,lwelford,6
+mc_responders_1,bhoagland,6
+mc_responders_1,"""""",""""""
+mc_responders_1,3,3
+mc_responders_1,6,6
+mc_responders_2,2,2
+mc_responders_2,1,1
+mc_responders_2,"""""",""""""
+mc_responders_2,4,4
+mc_responders_2,6,6
+mc_responders_2,3,3
+mc_responders_2,null,""""""
+mc_responders_2,7,7
+endpoint_dispatch,6,6
+endpoint_dispatch,2,2
+endpoint_dispatch,1,1
+endpoint_dispatch,unable to locate,3
+endpoint_dispatch,5,5
+endpoint_dispatch,no document found,""""""
+endpoint_dispatch,"""""",""""""
+endpoint_dispatch,null,""""""
+endpoint_dispatch,3,3
+endpoint_dispatch,4,4
+repeat_dispatch,"""""",""""""
+repeat_dispatch,3,3
+repeat_dispatch,1,1
+repeat_dispatch,2,2
+repeat_dispatch,unknown,""""""
+repeat_dispatch,4,4
+gender,1,1
+gender,2,2
+gender,3,3
+gender,"""""",""""""
+gender,undifferentiated,3
+gender,4,4
+gender,6,6
+gender,x,""""""
+gender,X,""""""
+sexual_orientation,7,7
+sexual_orientation,12,12
+sexual_orientation,4,4
+sexual_orientation,13,13
+sexual_orientation,5,5
+sexual_orientation,3,3
+sexual_orientation,14,14
+sexual_orientation,8,8
+sexual_orientation,6,6
+sexual_orientation,11,11
+sexual_orientation,"""""",""""""
+sexual_orientation,9,9
+sexual_orientation,10,10
+sexual_orientation,1,1
+sexual_orientation,unknown,11
+sexual_orientation,heterosexual,7
+sexual_orientation,refused,13
+sexual_orientation,other,11
+race_ethnicity1,14,14
+race_ethnicity1,42,42
+race_ethnicity1,19,19
+race_ethnicity1,15,15
+race_ethnicity1,41,41
+race_ethnicity1,10,10
+race_ethnicity1,39,39
+race_ethnicity1,40,40
+race_ethnicity1,"""""",""""""
+race_ethnicity1,null,""""""
+race_ethnicity1,white,14
+race_ethnicity1,american indian or alaska native,15
+race_ethnicity1,other race,39
+race_ethnicity1,4,4
+race_ethnicity1,13,13
+race_ethnicity1,16,16
+race_ethnicity1,34,34
+race_ethnicity1,38,38
+race_ethnicity1,2,2
+race_ethnicity1,11,11
+race_ethnicity1,33,33
+race_ethnicity1,native american,15
+race_ethnicity1,other single race,39
+race_ethnicity1,black or african american,19
+race_ethnicity1,two or more races,39
+race_ethnicity1,unknown,40
+race_ethnicity1,20 white (non-hispanic),14
+race_ethnicity1,asian,38
+race_ethnicity1,non-hispanic or latino/a,39
+race_ethnicity1,patient refused,41
+race_ethnicity1,hispanic or latino/a,39
+race_ethnicity1,"another hispanic, latino/a, or spanish origin",39
+race_ethnicity2,"""""",""""""
+race_ethnicity2,14,14
+race_ethnicity2,19,19
+race_ethnicity2,42,42
+race_ethnicity2,15,15
+race_ethnicity2,null,""""""
+race_ethnicity2,38,38
+race_ethnicity2,29,29
+race_ethnicity2,4,4
+race_ethnicity2,native american,15
+race_ethnicity2,black or african american,19
+race_ethnicity2,white,14
+race_ethnicity2,two or more races,39
+race_ethnicity2,other single race,39
+race_ethnicity2,native hawaiian/pacific islander,8
+race_ethnicity3,"""""",""""""
+race_ethnicity3,14,14
+race_ethnicity3,19,19
+race_ethnicity3,42,42
+race_ethnicity3,38,38
+race_ethnicity3,null,""""""
+race_ethnicity3,10,10
+race_ethnicity3,white,14
+race_ethnicity3,black or african american,19
+race_ethnicity3,other single race,39
+race_ethnicity3,native american,15
+idd_status,3,3
+idd_status,2,2
+idd_status,1,1
+idd_status,"""""",""""""
+military_status,No,No
+military_status,yes,Yes
+military_status,unk,UNK
+military_status,NG,NG
+military_status,3,3
+military_status,"""""",""""""
+military_status,null,""""""
+military_status,2,2
+military_status,YVA,YVA
+military_status,UNK,UNK
+military_status,"veteran, no specified branch",Yes
+military_status,1,1
+military_status,ng,NG
+military_status,yva,YVA
+military_status,"yes, veteran. branch of service not specified",Yes
+military_status,"veteran, no specified branch of service",Yes
+military_status,"veteran, current or former guard/researve military",YVG
+military_status,"veteran, current or former active duty military",YVA
+military_status,client declinet to answe,2
+dhs_status,5,5
+dhs_status,2,2
+dhs_status,1,1
+dhs_status,4,4
+dhs_status,3,3
+dhs_status,"""""",""""""
+living_situation,13,13
+living_situation,1,1
+living_situation,14,14
+living_situation,7,7
+living_situation,99,99
+living_situation,11,11
+living_situation,null,""""""
+living_situation,2,2
+living_situation,24,24
+living_situation,3,3
+living_situation,15,15
+living_situation,12,12
+living_situation,6,6
+living_situation,4,4
+living_situation,"""""",""""""
+living_situation,28,28
+living_situation,27,27
+living_situation,29,29
+living_situation,5,5
+living_situation,private residence with relative,14
+living_situation,26,26
+living_situation,dhs temporary lodging/shelter,25
+living_situation,9,9
+living_situation,unknown,27
+living_situation,private residence,12
+living_situation,private residence - w/parent relative adult child(ren),14
+living_situation,residential treatment facility/home,3
+living_situation,residential facility (brs),17
+living_situation,supportive housing (congregate setting),9
+living_situation,private residence (with relatives),14
+living_situation,other,99
+primary_insurance,3,3
+primary_insurance,2,2
+primary_insurance,9,9
+primary_insurance,1,1
+primary_insurance,4,4
+primary_insurance,8,8
+primary_insurance,11,11
+primary_insurance,12,12
+primary_insurance,5,5
+primary_insurance,"""""",""""""
+primary_insurance,eocco gobhi - mho,4
+primary_insurance,null,""""""
+primary_insurance,dmap/bmm/ohp/ffs,4
+primary_insurance,self_pay,9
+primary_insurance,medicare b,2
+primary_insurance,7,7
+primary_insurance,10,10
+primary_insurance,unknown,""""""
+primary_insurance,other state/medicare/medicaid,8
+primary_insurance,review-undefined,""""""
+second_insurance,"""""",""""""
+second_insurance,null,""""""
+second_insurance,2,2
+second_insurance,13,13
+second_insurance,3,3
+second_insurance,12,12
+second_insurance,5,5
+second_insurance,1,1
+second_insurance,8,8
+second_insurance,4,4
+dispatch_requester,9,9
+dispatch_requester,11,11
+dispatch_requester,3,3
+dispatch_requester,5,5
+dispatch_requester,1,1
+dispatch_requester,2,2
+dispatch_requester,7,7
+dispatch_requester,8,8
+dispatch_requester,4,4
+dispatch_requester,"""""",""""""
+dispatch_requester,null,""""""
+dispatch_requester,6,6
+dispatch_requester,10,10
+dispatch_requester,"police or sheriff - local, state",9
+dispatch_requester,school,11
+dispatch_requester,"12=private health professional (primary care provider, physician, psychiatrist, hospital, primary health home, etc.)",11
+dispatch_requester,28=family/friend,11
+dispatch_requester,32=crisis/helpline,6
+dispatch_requester,08=community-based mh and/or sa provider,5
+dispatch_requester,17=jail - city or county,11
+dispatch_requester,05=school,11
+dispatch_requester,06=community housing,11
+dispatch_requester,09=local mh authority/community mh program,11
+dispatch_location,Private Residence,1
+dispatch_location,Private Residence (at home),1
+dispatch_location,2,2
+dispatch_location,9,9
+dispatch_location,1,1
+dispatch_location,6,6
+dispatch_location,4,4
+dispatch_location,7,7
+dispatch_location,5,5
+dispatch_location,8,8
+dispatch_location,"""""",""""""
+dispatch_location,3,3
+dispatch_location,null,""""""
+dispatch_location,999,""""""
+dispatch_location,65,""""""
+dispatch_location,10,""""""
+dispatch_location,residence (mobile crisis),1
+dispatch_location,public building (mobile crisis),2
+dispatch_location,public services building -psb,2
+dispatch_location,hospital (mobile),6
+dispatch_location,public area (mobile),2
+dispatch_location,jail (other),8
+dispatch_location,residence (mobile),1
+dispatch_location,public building (mobile),2
+dispatch_location,business (mobile),9
+dispatch_location,999,9
+dispatch_location,65,9
+dispatch_location,10,9
+reason_for_dispatch1,agitation or disruptive behaivor,3
+reason_for_dispatch1,"interpersonal conflict or violence (including child abuse & neglect, dating violence, domestic violence, human trafficking, sexual assault, sexual exploitation, sexual harassment, stalking, bullying, hazing, and elder abuse)",2
+reason_for_dispatch1,disorganized/not functioning,7
+reason_for_dispatch1,12,12
+reason_for_dispatch1,14,14
+reason_for_dispatch1,8,8
+reason_for_dispatch1,3,3
+reason_for_dispatch1,7,7
+reason_for_dispatch1,10,10
+reason_for_dispatch1,17,17
+reason_for_dispatch1,9,9
+reason_for_dispatch1,16,16
+reason_for_dispatch1,6,6
+reason_for_dispatch1,19,19
+reason_for_dispatch1,15,15
+reason_for_dispatch1,4,4
+reason_for_dispatch1,13,13
+reason_for_dispatch1,5,5
+reason_for_dispatch1,2,2
+reason_for_dispatch1,18,18
+reason_for_dispatch1,1,1
+reason_for_dispatch1,"""""",""""""
+reason_for_dispatch1,null,""""""
+reason_for_dispatch1,11,11
+reason_for_dispatch1,si/hi/psychosis,19
+reason_for_dispatch2,"""""",""""""
+reason_for_dispatch2,8,8
+reason_for_dispatch2,11,11
+reason_for_dispatch2,14,14
+reason_for_dispatch2,9,9
+reason_for_dispatch2,19,19
+reason_for_dispatch2,12,12
+reason_for_dispatch2,16,16
+reason_for_dispatch2,7,7
+reason_for_dispatch2,15,15
+reason_for_dispatch2,10,10
+reason_for_dispatch2,18,18
+reason_for_dispatch2,null,""""""
+reason_for_dispatch2,3,3
+reason_for_dispatch2,6,6
+reason_for_dispatch2,17,17
+reason_for_dispatch2,5,5
+reason_for_dispatch2,13,13
+reason_for_dispatch2,2,2
+reason_for_dispatch2,4,4
+reason_for_dispatch3,"""""",""""""
+reason_for_dispatch3,12,12
+reason_for_dispatch3,7,7
+reason_for_dispatch3,10,10
+reason_for_dispatch3,15,15
+reason_for_dispatch3,9,9
+reason_for_dispatch3,17,17
+reason_for_dispatch3,8,8
+reason_for_dispatch3,18,18
+reason_for_dispatch3,null,""""""
+reason_for_dispatch3,14,14
+reason_for_dispatch3,2,2
+reason_for_dispatch3,11,11
+reason_for_dispatch3,3,3
+reason_for_dispatch3,6,6
+reason_for_dispatch3,16,16
+reason_for_dispatch3,5,5
+reason_for_dispatch4,"""""",""""""
+reason_for_dispatch4,17,17
+reason_for_dispatch4,8,8
+reason_for_dispatch4,9,9
+reason_for_dispatch4,12,12
+reason_for_dispatch4,15,15
+reason_for_dispatch4,7,7
+reason_for_dispatch4,3,3
+reason_for_dispatch4,null,""""""
+reason_for_dispatch4,n,""""""
+reason_for_dispatch4,y,""""""
+reason_for_dispatch4,14,14
+reason_for_dispatch4,16,16
+reason_for_dispatch4,1,1
+reason_for_dispatch4,2,2
+reason_for_dispatch4,19,19
+reason_for_dispatch4,6,6
+reason_for_dispatch4,11,11
+reason_for_dispatch5,"""""",""""""
+reason_for_dispatch5,17,17
+reason_for_dispatch5,12,12
+reason_for_dispatch5,15,15
+reason_for_dispatch5,null,""""""
+reason_for_dispatch5,english,""""""
+reason_for_dispatch5,spanish,""""""
+reason_for_dispatch5,14,14
+reason_for_dispatch5,13,13
+reason_for_dispatch5,16,16
+reason_for_dispatch5,6,6
+abuse_reported,0,0
+abuse_reported,1,1
+abuse_reported,"""""",""""""
+abuse_reported,null,""""""
+abuse_reported,information currently not being collected,""""""
+ems_scene,2,2
+ems_scene,1,1
+ems_scene,"""""",""""""
+ems_scene,null,""""""
+le_scene,2,2
+le_scene,1,1
+le_scene,"""""",""""""
+le_scene,n,""""""
+le_scene,y,""""""
+le_scene,6,""""""
+le_scene,3,""""""
+le_scene,5,""""""
+le_scene,null,""""""
+le_scene,7,""""""
+le_scene,4,""""""
+client_language,english,English
+client_language,unknown,unknown
+client_language,other,other
+client_language,"""""",""""""
+client_language,null,""""""
+client_language,korean or english,korean or english
+client_language,spanish,spanish
+client_language,engish,English
+client_language,englsih,English
+language_need_met,3,3
+language_need_met,2,2
+language_need_met,1,1
+language_need_met,"""""",""""""
+language_need_met,null,""""""
+custody,3,3
+custody,2,2
+custody,4,4
+custody,1,1
+custody,"""""",""""""
+custody,null,""""""
+custody,Hospital Hold,4
+disposition,1,1
+disposition,2,2
+disposition,3,3
+disposition,5,5
+disposition,4,4
+disposition,7,7
+disposition,6,6
+disposition,"""""",""""""
+disposition,null,""""""
+disposition,legacy mt. hood,""""""
+disposition,ohsu,""""""
+disposition,portland adventist,""""""
+disposition,portland providence,""""""
+disposition,unity center for behavioral health,4
+disposition,legacy good samaritan,""""""
+disposition,legacy emanuel,""""""
+disposition,veterans administration,""""""
+disposition,providence milwaukie,""""""
+disposition,jail,2
+disposition,providence st. vincent,""""""
+disposition,referred to acute care,7
+disposition,returned to community,1
+disposition,remained at emergency department,3
+disposition,sent to emergency department,3
+disposition,remained in jail,7
+disposition,diverted from emergency department (ed),7
+disposition,crisis respite,6
+disposition,arrested,2
+disposition,remained in community-emergency department diversion,1
+services_72hour,no,8
+services_72hour,2,2
+services_72hour,1,1
+services_72hour,7,7
+services_72hour,3,3
+services_72hour,6,6
+services_72hour,4,4
+services_72hour,5,5
+services_72hour,n/a: follow up declined/no engagement,5
+services_72hour,n/a: no follow up needed,4
+services_72hour,n/a: hand off to another provider/system,3
+services_72hour,"""""",""""""
+services_72hour,No,8
+services_72hour,null,""""""
+ref_stabilization_services,"""""",""""""
+ref_stabilization_services,2,2
+ref_stabilization_services,1,1
+ref_stabilization_services,information currently not being collected,""""""
+ref_stabilization_services,null,""""""
+enr_stabilization_services,"""""",""""""
+enr_stabilization_services,2,2
+enr_stabilization_services,null,""""""
+enr_stabilization_services,1,1
+enr_stabilization_services,3,3
+dispatch_zip,scappoose (97056),97056
+dispatch_zip,saint helens (97051),97051
+dispatch_zip,rainier (97048),97048
+dispatch_zip,deer island (97054),97054
